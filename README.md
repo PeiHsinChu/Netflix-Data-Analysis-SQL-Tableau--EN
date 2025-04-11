@@ -63,7 +63,7 @@ ORDER BY 1, 2;
 ## Tableau Dashboard
 
 [👉 View Tableau Dashboard (Interactive Visualization)]
-(https://public.tableau.com/views/netflix_project_english-version/Dashbord2?:language=zh-TW&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+(https://public.tableau.com/app/profile/chu.pei.hsin/viz/netflix_project_17443086344970/2#1)  
 <br>
 
 ![Netflix Tableau Dashboard Preview](images/netflix_analysis_visulization.png)
