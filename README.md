@@ -66,7 +66,7 @@ ORDER BY 1, 2;
 <br>
 
 
-![Netflix Tableau Dashboard Preview](images/netflix_analysis_visulization.png .png)
+![Netflix Tableau Dashboard Preview](images/netflix_analysis_visulization.png)
 
 ---
 
