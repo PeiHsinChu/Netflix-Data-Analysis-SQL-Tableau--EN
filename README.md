@@ -66,6 +66,7 @@ ORDER BY 1, 2;
 (https://public.tableau.com/app/profile/chu.pei.hsin/viz/netflix_project_17443086344970/2#1)  
 <br>
 
+
 ![Netflix Tableau Dashboard Preview](images/netflix_analysis_visulization.png)
 
 ---
